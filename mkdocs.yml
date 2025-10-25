@@ -1,0 +1,7 @@
+site_name: My Docs
+theme:
+  name: material
+nav:
+  - Inici: index.md
+  - instalació: instalacio_mysql_Brines_Marc/instalacio_mysql_Brines_Marc.md
+  - configuracio: configuració_alumne_PR2/configuració_alumne_PR2.md
